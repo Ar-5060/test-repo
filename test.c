@@ -3,7 +3,7 @@
 int main(){
     int digit=0;
     int small=0,capital=0;
-    char str[40]="habib is Good boy";
+    char str[40]="habib is a Good boy";
     for (int i = 0; str[i]!='\0'; i++)
     {
         
